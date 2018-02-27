@@ -9,9 +9,4 @@ class Player
   def loose_life
     @life -= 1
   end
-
 end
-
-# bob = Player.new('bob')
-# puts bob.name
-# puts bob.life
